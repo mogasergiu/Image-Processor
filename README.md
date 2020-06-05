@@ -15,10 +15,10 @@ m/M N<br />
 where the first character must be either 'm' (for min) or "M" (for max), followed by a whitespace and N, where N is the size of the filter.<br />
 - name of the text file containing the threshold value required for the Clustering Filter<br />
 
-Example of an input.tx:<br />
-test.bmp
-filter.txt
-pooling.txt
-cluster.txt
+Example of an input.txt (with files from "input/"):<br />
+test.bmp<br />
+filter.txt<br />
+pooling.txt<br />
+cluster.txt<br />
 
 Examples of output images are given in the "output/" directory.
